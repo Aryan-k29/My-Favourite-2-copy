@@ -1,0 +1,41 @@
+img{
+  width:300px;
+}
+body{
+  text-align:center;
+  background-color:#FFA000
+}
+p{
+  font-size:15px;
+  font-family: Lato, sans-serif;
+  text-align:left
+}
+h1{
+  font-size:40px;
+  font-family: Roboto, sans-serif;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float:left;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    position: absolute;
+}
+.parallax-inner{
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+.links{float:left;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family:fantasy;
+    font-size: 20px;
+}
